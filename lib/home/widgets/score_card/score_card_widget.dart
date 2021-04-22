@@ -35,8 +35,8 @@ class _ScoreCardWidgetState extends State<ScoreCardWidget> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text("Vamos começar", style: AppTextStyles.heading),
-                      Text("Complete os desafios e avance em conhecimento",
+                      Text("Let's start", style: AppTextStyles.heading),
+                      Text("Overcome challenges and build knowledge",
                           style: AppTextStyles.body),
                     ],
                   ),
